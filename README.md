@@ -15,4 +15,4 @@ Overall, this project demonstrates your skills in working with APIs, JavaScript,
 
 ## Demo
 
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
+Check out the live demo of the application at https://github.com/shri9514/The-Meal-APP
